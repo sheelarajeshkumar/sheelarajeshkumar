@@ -1,11 +1,11 @@
 ### Hi there 👋, I am Rjesh Kumar Sheela!
 ###### *Software Engineer*
 
-I am a Full Stack Developer working on web applications used by millions of people daily. I specialise in backend JavaScript technologies such as NodeJS and Express. Besides that, I am an enthusiast of React and I look to become an React expert.
+I am a Full Stack Developer working on web applications used by millions of people daily. I specialise in backend technologies such as NodeJS, Spring boot and Express. Besides that, I am an enthusiast of React and I look to become an React expert.
 
 * Frontend: HTML, CSS, SASS, JavaScript, Typescript, Angular, React
-* Backend: Java, NodeJS, Docker
-* Cloud Computing: AWS
+* Backend: Java, NodeJS, Spring Boot
+* Cloud Computing: AWS, Docker
 * CI/CD: Jenkins
 
 
