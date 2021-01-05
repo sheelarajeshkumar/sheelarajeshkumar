@@ -17,8 +17,6 @@ I am a Full Stack Developer working on web applications used by millions of peop
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheelarajeshkumar&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sheelarajeshkumar)
-
 <!--
 **catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
