@@ -14,10 +14,11 @@
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sheelarajeshkumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rajeshkumarsheela/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@sheelarajeshk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rajeshkumarsheela.surge.sh/)  
 
-### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=sheelarajeshkumar&show_icons=true)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rajeshkumarsheela?ext=heatmap)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheelarajeshkumar&layout=compact) ![Leetcode Stats](https://leetcard.jacoblin.cool/rajeshkumarsheela?ext=heatmap)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sheelarajeshkumar&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheelarajeshkumar&layout=compact) 
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sheelarajeshkumar&" alt="sheelarajeshkumar" /></p>
 <!-- 
 <h4 align="center">Visitor's count :eyes:</h4>
