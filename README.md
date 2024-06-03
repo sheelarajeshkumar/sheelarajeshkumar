@@ -27,3 +27,5 @@
 <!-- <div align="center"> -->
 <a href="https://www.linkedin.com/in/rajeshkumarsheela/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!-- </div> -->
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/rajeshkumarsheela?ext=heatmap&font=Dancing_Script)
