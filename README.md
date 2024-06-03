@@ -17,14 +17,16 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rajeshkumarsheela?ext=heatmap)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sheelarajeshkumar&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheelarajeshkumar&layout=compact) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sheelarajeshkumar&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheelarajeshkumar) 
 
+<!--
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sheelarajeshkumar&" alt="sheelarajeshkumar" /></p>
-<!-- 
-<h4 align="center">Visitor's count :eyes:</h4>
+-->
 
+<!--
 <p align="center"><img src="https://profile-counter.glitch.me/sheelarajeshkumar/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 -->
+
 <!-- <div align="center"> -->
 <a href="https://www.linkedin.com/in/rajeshkumarsheela/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!-- </div> -->
