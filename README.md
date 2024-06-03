@@ -17,7 +17,7 @@
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sheelarajeshkumar&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheelarajeshkumar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheelarajeshkumar&layout=compact) ![Leetcode Stats](https://leetcard.jacoblin.cool/rajeshkumarsheela?ext=heatmap)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sheelarajeshkumar&" alt="sheelarajeshkumar" /></p>
 <!-- 
 <h4 align="center">Visitor's count :eyes:</h4>
@@ -27,5 +27,3 @@
 <!-- <div align="center"> -->
 <a href="https://www.linkedin.com/in/rajeshkumarsheela/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!-- </div> -->
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/rajeshkumarsheela?ext=heatmap&font=Dancing_Script)
